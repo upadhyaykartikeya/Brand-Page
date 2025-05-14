@@ -10,6 +10,8 @@ Coming Soon…
 
 ## 📁 Project Structure
 
+```
+
 shoe-store-landing/
 ├── public/
 │ └── images/
@@ -27,6 +29,7 @@ shoe-store-landing/
 ├── package.json
 └── README.md
 
+```
 
 ---
 
