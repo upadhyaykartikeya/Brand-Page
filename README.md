@@ -1,12 +1,58 @@
-# React + Vite
+# Brand Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and modern landing page built using **React** and **CSS**, designed to showcase a premium shoe brand. This project demonstrates component-based design, responsive layout techniques, and simple reusable UI elements.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Coming Soon…
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Project Structure
+
+shoe-store-landing/
+├── public/
+│ └── images/
+│ ├── amazon.png
+│ ├── brand_logo.png
+│ ├── flipkart.png
+│ └── shoe_image.png
+├── src/
+│ ├── components/
+│ │ ├── Hero.js
+│ │ └── Navigation.js
+│ ├── App.css
+│ ├── App.js
+│ └── index.js
+├── package.json
+└── README.md
+
+
+---
+
+## 💻 Technologies Used
+
+- **React.js** – JavaScript library for building UI
+- **CSS3** – Custom styling using variables and flexbox
+- **Google Fonts** – Poppins font
+- **HTML5** – Semantic structure
+
+---
+
+## 🧩 Features
+
+- Modular React components
+- Responsive layout with Flexbox
+- Reusable button styles (primary & secondary)
+- Brand integration (Amazon, Flipkart)
+- Easy to customize and scale
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/yourusername/Brand-Page.git
+   cd shoe-store-landing
